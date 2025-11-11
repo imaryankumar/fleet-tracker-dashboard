@@ -2,6 +2,5 @@
   "buildCommand": "npm run build",
   "installCommand": "npm install",
   "outputDirectory": "dist",
-  "framework": "vite",
-  "nodeVersion": "20.19.0"
+  "framework": "vite"
 }
